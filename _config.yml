@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "m4niatic.io"
+title                    : "m4niatic.github.io"
 title_separator          : "-"
 name                     : "m4niatic"
 description              : "Posts about security, CTFs and networking"
-url                      : "https://m4niatic.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://m4niatic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "m4niatic/m4niatic.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
