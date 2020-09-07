@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "m4niatic.github.io"
+title                    : "m4niatic.io"
 title_separator          : "-"
-name                     : "m4niatic"
+name                     : "M4niatic"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://m4niatic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "m4niatic"
+  name             : "M4niatic"
   avatar           : "/assets/images/avatar.png"
   bio              : "CTF Player, <br>HackTheBox, Vulnhub, TryHackMe and Wargames"
   location         : "Canada"
-  email            : #"info@m4niatic.io"
+  email            : #"info@m4niatic.github.io"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
